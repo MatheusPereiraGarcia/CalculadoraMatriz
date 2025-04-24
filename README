@@ -1,0 +1,24 @@
+# 🧮 Calculadora de Matrizes - Java (Console)
+
+Projeto simples em Java que realiza operações básicas com matrizes 2D. Criado para fins de aprendizado e demonstração de domínio com vetores, laços, métodos e manipulação de matrizes.
+
+## 🚀 Funcionalidades
+
+- Leitura de duas matrizes NxM via terminal
+- Soma de matrizes
+- Subtração de matrizes
+- Multiplicação de matrizes (A × Bᵀ)
+- Transposição de matriz
+
+## 📦 Tecnologias utilizadas
+
+- Java (console)
+- Lógica de programação com vetores e matrizes
+- Estruturas de repetição e métodos
+
+## 📂 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/CalculadoraMatrizes.git
+   cd CalculadoraMatrizes
